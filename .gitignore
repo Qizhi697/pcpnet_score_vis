@@ -1,11 +1,10 @@
 /.vscode/
+/.idea/
 /results/
-/pclouds/*.xyz
 /pclouds/*.normals
 /pclouds/*.curv
 /pclouds/*.pidx
 /pclouds/*.npy
-/pclouds/*.txt
 /models/*.pth
 /models/*.txt
 /__pycache__/

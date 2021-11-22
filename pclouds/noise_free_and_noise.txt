@@ -1,0 +1,2 @@
+armadillo100k
+armadillo100k_noise_white_1.00e-01
